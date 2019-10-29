@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "userId": 1, "id": 1, "title": "soy david gomez", "body": "hola profe jhon"}
+    { "userId": 1, "id": 1, "title": "soy David Gomez", "body": "hola profe jhon"},
+    { "userId": 2, "id": 2, "title": "soy Pepito Perez", "body": "hola a todos esto es la clase de computacion movil"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
