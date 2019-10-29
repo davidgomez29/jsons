@@ -1,6 +1,12 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "soy david gomez",
-  "body": "hola profe jhon"
+  "posts": [
+    { "userId": 1, "id": 1, "title": "soy david gomez", "body": "hola profe jhon"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
